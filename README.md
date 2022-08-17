@@ -1,18 +1,17 @@
 [![MasterHead](https://64.media.tumblr.com/1561fec5731159fe6dac29b7b0230d21/tumblr_oel1j6DP3l1u77u56o1_1280.gifv)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm DivineZ</h1>
-<h3 align="center">Owner of AnonymousVPN/Anonymous Technologies, Owner of ufonet security, C# Dev, C Dev, Python Dev, HTML Dev, PHP Dev, CompTIA A+ certified</h3>
-<img align="centre" alt="Coding" width="800" src="https://share.creavite.co/sOP08QlAjGG1cLvV.gif">
-
+<h3 align="center">Owner of AnonymousVPN/Anonymous Technologies, Owner of ufonet security, C#, C, Python, HTML, PHP, CompTIA A+ certified</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divinez-cf&label=Profile%20views&color=0e75b6&style=flat" alt="divinez-cf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divinez-cf" alt="divinez-cf" /></a> </p>
+<img align="centre" alt="Coding" width="1007" src="https://share.creavite.co/sOP08QlAjGG1cLvV.gif">
+
+<p align="left"> <a href="https://github.com/DivineZ-cf"><img src="https://github-profile-trophy.vercel.app/?username=divinez-cf" alt="divinez-cf" length="800" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [AnonymousVPN](https://www.unhittable.org)
 
-- 🌱 I’m currently learning **C#, C, Python, HTML, PHP, Pentest+, A+**
+- 🌱 I’m currently learning **HTML, PHP, SQL, JavaScript**
 
 - 🔭 I’m currently working on **AnonymousVPN, Ufonet**
 
@@ -26,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/tKNJeBvub4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tKNJeBvub4" height="30" width="40" /></a>
+<a href="https://discord.gg/qjfYCBegzV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tKNJeBvub4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divinez-cf&show_icons=true&locale=en" alt="divinez-cf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divinez-cf&" alt="divinez-cf" /></p>
-
