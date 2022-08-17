@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divinez-cf&label=Profile%20views&color=0e75b6&style=flat" alt="divinez-cf" /> </p>
 
-<img align="centre" alt="Coding" width="1007" src="https://share.creavite.co/sOP08QlAjGG1cLvV.gif">
+<img align="centre" alt="Coding" width="800" src="https://share.creavite.co/sOP08QlAjGG1cLvV.gif">
 
 <p align="left"> <a href="https://github.com/DivineZ-cf"><img src="https://github-profile-trophy.vercel.app/?username=divinez-cf" alt="divinez-cf" length="800" /></a> </p>
 
